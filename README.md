@@ -1,4 +1,4 @@
-# nlw_copa
+
 <h1 align="center"> Nlw Copa </h1>
 
 <p align="center">
